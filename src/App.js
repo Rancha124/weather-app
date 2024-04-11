@@ -31,7 +31,6 @@ function App() {
       setLoading(true);
       try {
         const response = await axios.request(options);
-        setData(response.data);
         // Check if the response status code indicates that the city name was not found
         if (response.data.cod === "404") {
           setError(
