@@ -20,7 +20,7 @@ This is a simple weather app built with React.js and the OpenWeather API. It all
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/Rancha124/weather-app.git
    ```
 
 2. Navigate to the project directory:
@@ -48,3 +48,9 @@ REACT_APP_OPENWEATHER_API_KEY=your_api_key_here
    ```bash
    npm start
    ```
+
+## Demonstration
+
+![Weather app in Mobile](https://github.com/Rancha124/weather-app/blob/main/weather-app-mobile.png)
+
+![Weather app in desktop](https://github.com/Rancha124/weather-app/blob/main/weather-app-pc.png)
