@@ -21,7 +21,7 @@ function App() {
   };
 
   const searchCityName = async (event) => {
-    console.log("ohh yes", event.key);
+    // Validation check for city name
     if (!cityName) {
       setError("Please enter city name!");
       return;
@@ -32,6 +32,7 @@ function App() {
       try {
         const response = await axios.request(options);
         setData(response.data);
+        // Check if the response status code indicates that the city name was not found
         if (response.data.cod === "404") {
           setError(
             `Please make sure the city name ${cityName} you entered is correct`

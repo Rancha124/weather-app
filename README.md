@@ -51,6 +51,10 @@ REACT_APP_OPENWEATHER_API_KEY=your_api_key_here
 
 ## Demonstration
 
+Weather app in mobile
+
 ![Weather app in Mobile](https://github.com/Rancha124/weather-app/blob/main/weather-app-mobile.png)
+
+Weather app in desktop/pc
 
 ![Weather app in desktop](https://github.com/Rancha124/weather-app/blob/main/weather-app-pc.png)
