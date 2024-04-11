@@ -1,6 +1,7 @@
 # Weather App
 
 This is a simple weather app built with React.js and the OpenWeather API. It allows users to enter a city name and view the current weather information for that city.
+[Live Demo](https://rancha124.github.io/weather-app/).
 
 ## Features
 
