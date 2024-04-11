@@ -35,7 +35,7 @@ This is a simple weather app built with React.js and the OpenWeather API. It all
    npm install
    ```
 
-4. Obtain an API key from the OpenWeather website: OpenWeather API
+4. Obtain an API key from the RapidAPI OpenWeather: https://rapidapi.com/worldapi/api/open-weather13
 
 5. Create a .env file in the root directory of your project and add your API key:
 
